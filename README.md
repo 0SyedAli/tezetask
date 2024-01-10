@@ -25,6 +25,5 @@ While I handled the frontend development independently, ChatGPT was utilized for
 Live Task:
 Explore the live demonstration of the task on Netlify: https://tezeract-task-ahtisham.netlify.app/
 
-GitHub Link: https://github.com/0SyedAli/tezetask?tab=readme-ov-file
 Regards
 Syed Ahtisham
